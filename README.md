@@ -1,6 +1,8 @@
 # hava_durumum
 
-hava durumun nasıl gel öğren _
+![](havadurumum.gif)
+
+hava durumun nasıl?
 
 ## Getting Started
 

@@ -12,6 +12,14 @@ import 'Lokasyon.dart';
 import 'MaxMinDerece.dart';
 import 'SonGuncellemeWidget.dart';
 
+
+
+/*
+*
+* Burada kötü bir provider kullanımı yaptık sadece alterantif çözümü uyguladık
+*
+* */
+
 class HavaDurumum extends StatelessWidget {
   String secilenSehir = "Ankara";
   WeatherViewModel _weatherViewModel;
