@@ -1,6 +1,6 @@
 # hava_durumum
 
-![](havadurumum.gif)
+![](havadurumu.gif)
 
 hava durumun nasıl?
 
